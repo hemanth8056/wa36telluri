@@ -1,2 +1,2 @@
 # wa36telluri
-** THIS IS MY FIRST SERVER **
+**THIS IS MY FIRST SERVER**
