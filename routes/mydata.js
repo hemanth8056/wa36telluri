@@ -6,4 +6,4 @@ router.get('/', function(req, res, next) {
     res.render('index', { title: 'Hemanth Venkata Reddy Telluri' });
 });
 
-module
+module.exports = router;
